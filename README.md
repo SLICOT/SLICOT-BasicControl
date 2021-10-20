@@ -25,11 +25,11 @@ The toolbox main features are:
 
 The programs have been extensively tested on various test examples and are fully documented.
 
-The current release of `SLICOT-ModelReduction` is version 1.0, dated November 1, 2021.
+The current release of `SLICOT-BasicControl` is version 1.0, dated November 1, 2021.
 
 ## Requirements
 
-The codes have been tested with MATLAB 2015b through 2020b. To use the functions, the Control System Toolbox must be installed in MATLAB running under 64-bit Windows 7, 8, 8.1 or 10. Presently there is no support for Linux. 
+The codes have been tested with MATLAB 2015b through 2021b. To use the functions, the Control System Toolbox must be installed in MATLAB running under 64-bit Windows 7, 8, 8.1 or 10. Presently there is no support for Linux. 
 
 ## License
 
@@ -39,6 +39,6 @@ The codes have been tested with MATLAB 2015b through 2020b. To use the functions
 
 Please cite `SLICOT-ModelReduction` using at least one of the following references: 
 
-* P. Benner, D. Kressner, V, Sima, and A. Varga, The SLICOT Toolboxes - a Survey, _SLICOT Working Note 2009-1, August 2009._
+* P. Benner, D. Kressner, V, Sima, and A. Varga, [The SLICOT Toolboxes - a Survey](http://slicot.org/objects/software/reports/SLWN2009-1.pdf), _SLICOT Working Note 2009-1, August 2009._
 * P. Benner, D. Kressner, V. Sima, A. Varga, Die SLICOT-Toolboxen für Matlab - The SLICOT Toolboxes for Matlab (in German), _at – Automatisierungstechnik, 58 (2010)._
 
