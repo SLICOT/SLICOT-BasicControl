@@ -6,14 +6,14 @@ The `SLICOT Basic Systems and Control Toolbox` (`SLICOT-BasicControl`) includes 
 
 The main functionalities of the toolbox include:
 
-    * similarity and equivalence transformations for standard and descriptor systems
-       - essential computations with structured matrices, including
-       - eigenvalues of a Hamiltonian matrix or of a skew-Hamiltonian/Hamiltonian pencil
-       - Periodic Hessenberg and periodic Schur decompositions
-    * computations with (block) Toeplitz matrices and systems
-    * analysis of standard and descriptor systems
-    * solution of Lyapunov and Riccati equations with condition estimation
-    * coprime factorization and spectral decomposition of transfer-function matrices
+  * similarity and equivalence transformations for standard and descriptor systems
+    - essential computations with structured matrices, including
+    - eigenvalues of a Hamiltonian matrix or of a skew-Hamiltonian/Hamiltonian pencil
+    - Periodic Hessenberg and periodic Schur decompositions
+  * computations with (block) Toeplitz matrices and systems
+  * analysis of standard and descriptor systems
+  * solution of Lyapunov and Riccati equations with condition estimation
+  * coprime factorization and spectral decomposition of transfer-function matrices
 
 The toolbox main features are:
 
