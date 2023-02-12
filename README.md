@@ -2,7 +2,8 @@
 
 ## About 
 
-The `SLICOT Basic Systems and Control Toolbox` (`SLICOT-BasicControl`) includes [SLICOT](http://slicot.org/)-based MATLAB and Fortran tools for solving efficiently and reliably various basic computational problems for linear time-invariant multivariable systems analysis and synthesis. Standard and generalised (descriptor) state space systems are covered.
+The `SLICOT Basic Systems and Control Toolbox` (`SLICOT-BasicControl`) includes [SLICOT](https://github.com/SLICOT/SLICOT-Reference)
+-based MATLAB and Fortran tools for solving efficiently and reliably various basic computational problems for linear time-invariant multivariable systems analysis and synthesis. Standard and generalised (descriptor) state space systems are covered.
 
 The main functionalities of the toolbox include:
 
@@ -37,6 +38,6 @@ The codes have been tested with MATLAB 2015b through 2021b. To use the functions
 
 Please cite `SLICOT-BasicControl` using at least one of the following references: 
 
-* P. Benner, D. Kressner, V, Sima, and A. Varga, [The SLICOT Toolboxes - a Survey](http://slicot.org/objects/software/reports/SLWN2009-1.pdf), _SLICOT Working Note 2009-1, August 2009._
+* P. Benner, D. Kressner, V, Sima, and A. Varga, [The SLICOT Toolboxes - a Survey](http://slicot.org/objects/software/reports/blob/main/SLWN2009-1.pdf), _SLICOT Working Note 2009-1, August 2009._
 * P. Benner, D. Kressner, V. Sima, A. Varga, Die SLICOT-Toolboxen für Matlab - The SLICOT Toolboxes for Matlab (in German), _at – Automatisierungstechnik, 58 (2010)._
 
